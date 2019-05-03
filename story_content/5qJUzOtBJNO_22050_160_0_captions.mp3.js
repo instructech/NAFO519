@@ -1,0 +1,1 @@
+window.globalProvideData('caption', '{"data":"WEBVTT%0D%0AKind:%20captions%0D%0ASource:%20Articulate%20Closed%20Captions%20Editor%0D%0ASource%20Version:%206.4.15731.0%0D%0A%0D%0A00:00:00.256%20--%3E%2000:00:04.476%0D%0AWhich%20button%20should%20you%20click%20to%20access%20to%20myHCC%20portal?%0D%0A%0D%0A00:00:04.477%20--%3E%2000:00:05.981%0D%0AClick%20it%20now.%0D%0A%0D%0A"}')
