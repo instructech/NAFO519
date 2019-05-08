@@ -15,7 +15,7 @@
         <options>
           <option name="title_enabled" value="true">
             <options>
-              <option name="title_text" value="New Adjunct Faculty Orientation" />
+              <option name="title_text" value="New Adjunct Faculty Orientation 5-8-19" />
             </options>
           </option>
           <option name="logo_enabled" value="false">
@@ -29,27 +29,6 @@
           <optionlist name="tabs">
             <listitems>
               <listitem name="resources" value="false" group="linkright" />
-              <listitem name="customlink" value="true" group="linkright">
-                <properties>
-                  <property name="title" value="Map to Faculty Development Lab" />
-                  <property name="data" value="5iT04P7M22p" />
-                  <property name="ignoreSlideLock" value="true" />
-                </properties>
-              </listitem>
-              <listitem name="customlink" value="true" group="linkright">
-                <properties>
-                  <property name="title" value="Checklist" />
-                  <property name="data" value="6HHcrKLeYhc" />
-                  <property name="ignoreSlideLock" value="true" />
-                </properties>
-              </listitem>
-              <listitem name="customlink" value="true" group="linkright">
-                <properties>
-                  <property name="title" value="Campus Map" />
-                  <property name="data" value="5xgEJRqE7qh" />
-                  <property name="ignoreSlideLock" value="true" />
-                </properties>
-              </listitem>
               <listitem name="customlink" value="true" group="linkright">
                 <properties>
                   <property name="title" value="Resources" />
