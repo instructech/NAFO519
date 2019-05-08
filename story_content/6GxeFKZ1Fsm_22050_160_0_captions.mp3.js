@@ -1,0 +1,1 @@
+window.globalProvideData('caption', '{"data":"WEBVTT%0D%0AKind:%20captions%0D%0ASource:%20Articulate%20Closed%20Captions%20Editor%0D%0ASource%20Version:%206.4.15731.0%0D%0A%0D%0A00:00:00.108%20--%3E%2000:00:02.355%0D%0AOr%20you%20can%20contact%20eLearning%0D%0A%0D%0A00:00:02.356%20--%3E%2000:00:06.168%0D%0Aat%20eLarning@howardcc.edu%20for%20more%20inofrmation.%0D%0A%0D%0A"}')
